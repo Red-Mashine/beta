@@ -15,10 +15,10 @@ This is probably the format you're looking for.
 | 13 | GPIO27 | - | 14 | GND | - |
 | 15 | GPIO22 | - | 16 | GPIO23 | - |
 | 17 | 3V3 | - | 18 | GPIO24 | - |
-| 19 | GPIO10 | - | 20 | GND | - |
-| 21 | GPIO9 | - | 22 | GPIO25 | - |
-| 23 | GPIO11 | - | 24 | GPIO8 | - |
-| 25 | GND | - | 26 | GPIO7 | - |
+| 19 | GPIO10 | Servo Pin | 20 | GND | - |
+| 21 | GPIO9 | Button Pin | 22 | GPIO25 | - |
+| 23 | GPIO11 | LED Pin | 24 | GPIO8 | - |
+| 25 | GND | Mein Land | 26 | GPIO7 | - |
 | 27 | GPIO0 | - | 28 | GPIO1 | - |
 | 29 | GPIO5 | - | 30 | GND | - |
 | 31 | GPIO6 | - | 32 | GPIO12 | - |
